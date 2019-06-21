@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jakarta resources
+title: Jakarta resources (by Ondro)
 ---
 # Jakarta Resources 
 
