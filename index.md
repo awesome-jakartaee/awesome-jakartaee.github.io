@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Jakarta resources (by Ondro)
+title: Jakarta EE Resources (by Ondro)
 ---
-# Jakarta Resources 
+# Jakarta EE Resources 
 
 A page with collected resources about Jakarta EE.
 
