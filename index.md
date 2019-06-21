@@ -21,7 +21,7 @@ A page with collected resources about Jakarta EE.
 ## Examples
 
 * [Java EE 8 Samples](https://github.com/javaee-samples/javaee8-samples) by the community
-* [Java EE Microservices Example - Java EE Calculator]9https://github.com/AdamBien/javaee-calculator) by Adam Bien
+* [Java EE Microservices Example - Java EE Calculator](https://github.com/AdamBien/javaee-calculator) by Adam Bien
 
 ## Other resources in progress
 
