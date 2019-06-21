@@ -20,6 +20,7 @@ A page with collected resources about Jakarta EE.
 
 ## Examples
 
+* [Jakarta EE Examples](https://github.com/manorrock/jakartaee-examples) by Manfred Riem
 * [Java EE 8 Samples](https://github.com/javaee-samples/javaee8-samples) by the community
 * [Java EE Microservices Example - Java EE Calculator](https://github.com/AdamBien/javaee-calculator) by Adam Bien
 
