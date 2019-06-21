@@ -6,7 +6,7 @@ title: Jakarta resources
 
 A page with collected resources about Jakarta EE.
 
-_(compiled by [Ondro Mihalyi](https://ondro.inginea.eu))_
+----------------------------------------
 
 * [Java EE 8 Tutorial](https://javaee.github.io/tutorial/toc.html) by Oracle)
 * [Java EE 8 SDK download](https://www.oracle.com/technetwork/java/javaee/downloads/java-ee-sdk-downloads-3908423.html) by Oracle (Samples, GlassFish, example apps)
