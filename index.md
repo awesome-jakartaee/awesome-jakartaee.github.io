@@ -12,6 +12,7 @@ A page with collected resources about Jakarta EE.
 * [Java EE 8 Landing Page](https://javaee.github.io/) by Oracle
 * [Java EE 8 Tutorial](https://javaee.github.io/tutorial/toc.html) by Oracle
 * [Java EE 8 SDK Download](https://www.oracle.com/technetwork/java/javaee/downloads/java-ee-sdk-downloads-3908423.html) by Oracle (Samples, GlassFish, example apps)
+* [Java EE 8 Javadoc](https://javaee.github.io/javaee-spec/javadocs/) (API reference)
 * [Java EE 8 Samples](https://github.com/javaee-samples/javaee8-samples) by the community
 
 ## Other resources in progress
