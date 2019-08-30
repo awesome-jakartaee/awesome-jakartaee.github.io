@@ -1,2 +1,2 @@
 # jakartadocs-om.github.io
-A page to collect resources about Jakarta EE
+[jakartadocs-om.github.io](https://jakartadocs-om.github.io) - a page curated by Ondro Mihalyi to collect resources about Jakarta EE
