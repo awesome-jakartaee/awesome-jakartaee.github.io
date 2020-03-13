@@ -47,11 +47,11 @@ A page with collected resources about Jakarta EE.
 
 ### Connectors
 
-* [JCA Cloud Connectors](https://github.com/payara/Cloud-Connectors)
+* [JCA Cloud Connectors](https://github.com/payara/Cloud-Connectors) - standards based connectivity to common Cloud infrastructure (Apache Kafka, Amazon SQS, MQTT, Azure Service Bus)  by Payara
 
 ### Libraries
 
-* [Tomitribe projects](https://tomitribe.io/projects)
+* [Tomitribe projects](https://tomitribe.io/projects) - various useful opensource Java SE and Java EE libraries by Tomitribe
 
 ### Testing
 
