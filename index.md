@@ -45,6 +45,14 @@ A page with collected resources about Jakarta EE.
 * [CDI ecosystem collection at the CDI main site](http://www.cdi-spec.org/ecosystem/) (DeltaSpike, Apache Camel, etc.)
 * [CDI extension projects on GitHub](https://github.com/search?o=desc&q=cdi+extensions&s=stars&type=Repositories)
 
+### Connectors
+
+* [JCA Cloud Connectors](https://github.com/payara/Cloud-Connectors)
+
+### Libraries
+
+* [Tomitribe projects](https://tomitribe.io/projects)
+
 ### Testing
 
 * [Arquillian](http://arquillian.org/) - a highly extensible testing platform for the JVM that enables developers to easily create automated integration, functional and acceptance tests for Java middleware. It provides extra-light containers to test your code against major Jakarta EE application servers and containers
