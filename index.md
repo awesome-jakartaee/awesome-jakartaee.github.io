@@ -12,7 +12,7 @@ A page with collected resources about Jakarta EE.
 * [Jakarta EE 8 Specifications](https://jakarta.ee/specifications/)
 * [Jakarta EE 8 Javadocs](https://jakarta.ee/specifications/platform/8/apidocs/) ([Web-Profile](https://jakarta.ee/specifications/webprofile/8/apidocs/))
 
-# Java EE 8 Resources 
+## Java EE 8 Resources 
 
 * [Java EE 8 Landing Page](https://javaee.github.io/) by Oracle
 * [Java EE 8 Tutorial](https://javaee.github.io/tutorial/toc.html) by Oracle
