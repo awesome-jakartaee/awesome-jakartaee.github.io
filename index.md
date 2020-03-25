@@ -11,7 +11,7 @@ A page with collected resources about Jakarta EE.
 * [Jakarta EE Landing Page](https://jakarta.ee/) by Eclipse Fnd.
 * [Jakarta EE 8 Specifications](https://jakarta.ee/specifications/)
 * [Jakarta EE 8 Javadocs](https://jakarta.ee/specifications/platform/8/apidocs/) ([Web-Profile](https://jakarta.ee/specifications/webprofile/8/apidocs/))
-* [Jakarta EE 8 Tutorial](https://eclipse-ee4j.github.io/jakartaee-tutorial/toc.html) (Draft)
+* [Jakarta EE 8 Tutorial](https://eclipse-ee4j.github.io/jakartaee-tutorial/toc.html) (Draft) ([Tutorial examples](https://github.com/eclipse-ee4j/jakartaee-tutorial-examples))
 
 ## Java EE 8 Resources 
 
