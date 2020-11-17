@@ -27,6 +27,10 @@ A page with collected resources about Jakarta EE.
 * [Jakarta EE Essentials Archetype](https://github.com/AdamBien/JakartaEE-essentials-archetype) by Adam Bien
 * [Java EE 8 Essentials Archetype](https://github.com/AdamBien/javaee8-essentials-archetype) by Adam Bien
 
+## Tutorials
+
+* [First Cup of Jakarta EE Tutorial](https://eclipse-ee4j.github.io/jakartaee-firstcup/)
+
 ## Examples
 
 * [Jakarta EE Examples](https://github.com/eclipse-ee4j/jakartaee-examples) by Eclipse Foundation (initially donated by Manfred Reim) 
