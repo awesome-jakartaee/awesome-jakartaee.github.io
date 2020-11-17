@@ -9,9 +9,9 @@ A page with collected resources about Jakarta EE.
 ----------------------------------------
 
 * [Jakarta EE Landing Page](https://jakarta.ee/) by Eclipse Fnd.
-* [Jakarta EE 8 Specifications](https://jakarta.ee/specifications/)
-* [Jakarta EE 8 Javadocs](https://jakarta.ee/specifications/platform/8/apidocs/) ([Web-Profile](https://jakarta.ee/specifications/webprofile/8/apidocs/))
-* [Jakarta EE 8 Tutorial](https://eclipse-ee4j.github.io/jakartaee-tutorial/toc.html) (Draft) ([Tutorial examples](https://github.com/eclipse-ee4j/jakartaee-tutorial-examples))
+* [Jakarta EE Specifications](https://jakarta.ee/specifications/)
+* [Jakarta EE Javadocs](https://jakarta.ee/specifications/platform/8/apidocs/) ([Web-Profile](https://jakarta.ee/specifications/webprofile/8/apidocs/))
+* [Jakarta EE Documentation](https://jakarta.ee/resources/#documentation) (includes official tutorials and examples)
 
 ## Java EE 8 Resources 
 
@@ -26,10 +26,6 @@ A page with collected resources about Jakarta EE.
 
 * [Jakarta EE Essentials Archetype](https://github.com/AdamBien/JakartaEE-essentials-archetype) by Adam Bien
 * [Java EE 8 Essentials Archetype](https://github.com/AdamBien/javaee8-essentials-archetype) by Adam Bien
-
-## Tutorials
-
-* [First Cup of Jakarta EE Tutorial](https://eclipse-ee4j.github.io/jakartaee-firstcup/)
 
 ## Examples
 
