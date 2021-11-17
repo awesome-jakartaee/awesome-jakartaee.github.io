@@ -33,6 +33,7 @@ A page with collected resources about Jakarta EE.
 * [Java EE 8 Samples](https://github.com/javaee-samples/javaee8-samples) by the community
 * [Java EE 7 Samples](https://github.com/javaee-samples/javaee7-samples) by the community
 * [Java EE Microservices Example - Java EE Calculator](https://github.com/AdamBien/javaee-calculator) by Adam Bien
+* [Java EE 8 By Example](https://hantsy.gitbook.io/java-ee-8-by-example/) - a gitbook by Hantsy Bai
 
 ## Other resources in progress
 
