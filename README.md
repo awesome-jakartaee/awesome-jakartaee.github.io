@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Jakarta EE Resources (by Ondro)
+permalink: /
 ---
 # Jakarta EE Resources 
 
