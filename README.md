@@ -71,9 +71,17 @@ A page with collected developer resources about Jakarta EE.
 * [CDI ecosystem collection at the CDI main site](http://www.cdi-spec.org/ecosystem/) (DeltaSpike, Apache Camel, etc.)
 * [CDI extension projects on GitHub](https://github.com/search?o=desc&q=cdi+extensions&s=stars&type=Repositories)
 
+### XML Binding (JAX-B)
+
+* [JAXB Tools](https://github.com/highsource/jaxb-tools) - number of tools around XML Binding (maven plugin, JAXB-RI implementation plugins, etc.)
+
 ### Connectors
 
 * [JCA Cloud Connectors](https://github.com/payara/Cloud-Connectors) - standards-based connectivity to common Cloud infrastructure (Apache Kafka, Amazon SQS, MQTT, Azure Service Bus)  by **Payara**
+
+### General Jakarta EE resources
+
+* [OmniFish Developer pages](https://omnifish.ee/developers/) - resources related to Jakarta EE, Eclipse GlassFish, Piranha Cloud, e.g. Docker images, IDE plugins, Arquillian containers, curated by **OmniFish**
 
 ### Testing
 
