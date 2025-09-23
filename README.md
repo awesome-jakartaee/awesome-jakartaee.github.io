@@ -20,10 +20,13 @@ A page with collected developer resources about Jakarta EE.
 * [Jakarta EE Tutorial](https://eclipse-ee4j.github.io/jakartaee-tutorial/) by Eclipse Fnd.
 * [Jakarta EE 10 Javadocs](https://jakarta.ee/specifications/platform/10/apidocs/) ([Web-Profile 10](https://jakarta.ee/specifications/webprofile/10/apidocs/))
 * [Starter for Jakarta EE](https://start.jakarta.ee/) - Generate Jakarta EE Maven Project with Examples
+* [Flow Logix Starter for Jakarta EE](https://start.flowlogix.com) - Includes Arquillian and Selenium integration testing
 
 ## Jakarta EE Examples
 
-* [Jakarta EE Examples](https://github.com/eclipse-ee4j/jakartaee-examples) by Eclipse Foundation (initially donated by Manfred Reim) 
+* [Jakarta EE Examples](https://github.com/eclipse-ee4j/jakartaee-examples) by Eclipse Foundation (initially donated by Manfred Reim)
+* [Email Manager, Starter Generator](https://github.com/lprimak/apps) by Lenny Primak - full production application examples
+* [Eclipse Cargo Tracker](https://github.com/eclipse-ee4j/cargotracker) Real-life example domain driven example by Eclipse Foundation
 
 ## Maven Jakarta EE Resources
 
@@ -33,6 +36,8 @@ A page with collected developer resources about Jakarta EE.
 * [Jakarta EE Web App Archetypes](https://search.maven.org/search?q=g:io.github.juneau001) by Josh Juneau (Jakarta EE 8, 9, and 10)
 * [Jakarta EE Essentials Archetype](https://github.com/AdamBien/JakartaEE-essentials-archetype) by **Adam Bien** (Jakarta EE 8 + MicroProfile 3.3)
 * [Jakarta EE 8 and Eclipse Microprofile 4.1 Archetype](https://github.com/bitofcode/archetype-jakartaee-microprofile) by **bitofcode**
+* [Jakarta EE Full-Featured Testable Archetype](https://github.com/flowlogix/depchain) by **[flowlogix](https://flowlogix.com)**
+* [Base POM for Jakarta EE and Maven 3/4](https://github.com/flowlogix/base-pom) by **[flowlogix](https://flowlogix.com)**
 
 ## Jakarta EE Learning Resources
 
@@ -65,11 +70,17 @@ A page with collected developer resources about Jakarta EE.
 
 ## Jakarta EE Tools and Extensions
 
+## User Inteface components
+* [PrimeFaces](https://showcase.primefaces.org/) - THE component library for Jakarta Faces
+* [OmniFaces](https://omnifaces.org) - Things that should be included in Jakarta Faces, but were not.
+* [FlowLogix Jakarta EE Components](https://docs.flowlogix.com) - Easily configure PrimeFaces and OmniFaces work out-of-the box
+
 ### CDI Extensions
 
 * [Apache DeltaSpike](https://deltaspike.apache.org/) - a number of portable CDI extensions that provide useful features
 * [CDI ecosystem collection at the CDI main site](http://www.cdi-spec.org/ecosystem/) (DeltaSpike, Apache Camel, etc.)
 * [CDI extension projects on GitHub](https://github.com/search?o=desc&q=cdi+extensions&s=stars&type=Repositories)
+* [Apache Shiro Security](https://shiro.apache.org/jakarta-ee.html) Integrates with Jakarta Security for easy configuration
 
 ### XML Binding (JAX-B)
 
